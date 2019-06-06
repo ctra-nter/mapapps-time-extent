@@ -1,0 +1,15 @@
+{
+    "name": "dn_timeextent",
+    "version": "1.0.0-SNAPSHOT",
+    "title": "${bundleName}",
+    "description": "${bundleDescription}",
+    "vendor": "con terra GmbH",
+    "keywords": [
+        "sample"
+    ],
+    "icon": {},
+    "license": {},
+    "productName": "devnet-mapapps-time-extent",
+    "layout-widgets": [],
+    "components": []
+}
